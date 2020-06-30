@@ -10,7 +10,7 @@ Você pode acompanhar a apresentação lendo o arquivo ``Apresentação da lingu
 * Instalar o pacote [JupyterLab](https://jupyter.org/install) no seu computador.
 * Acessando o site [Notebooks.ai](https://notebooks.ai/), que é uma plataforma online que nos da máquinas simples de graça.
 
-Em um determinado momento na apresentação, começaremos a usar a API de buscas do Twitter, para acompanhar você deve possuir uma [conta de desenvolvedor do Twitter](https://developer.twitter.com/en) e ter um *App* habilitado com *Api keys* e *Tokens* geradas. Caso queirar fazer o teste em sua máquina, crie na raiz um arquivo chamado ``credenciais.json`` e coloque esses dados nele:
+Em um determinado momento na apresentação, começaremos a usar a API de buscas do Twitter, para acompanhar você deve possuir uma [conta de desenvolvedor do Twitter](https://developer.twitter.com/en) e ter um *App* habilitado com *Api keys* e *Tokens* geradas. Caso queira fazer o teste em sua máquina, crie na raiz um arquivo chamado ``credenciais.json`` e coloque esses dados nele:
 ``` javascript
 credenciais.json
 {
@@ -18,4 +18,5 @@ credenciais.json
     "consumer_secret":  "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "access_token": "XXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "access_token_secret":  "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-}```
+}
+```
